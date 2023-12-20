@@ -1,0 +1,3 @@
+﻿  grafika.cpp
+D:\тест проекты на си\grafika\grafika.cpp(88): warning C4715: PlayerCoord: значение возвращается не при всех путях выполнения
+  grafika.vcxproj -> D:\тест проекты на си\grafika\x64\Debug\grafika.exe
